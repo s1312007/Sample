@@ -4,7 +4,6 @@
    # See more at:
    # http://www.landmap.ac.uk/index.php/Learning-Materials/Python-Scripting/9.4-Calculate-NDVI-using-GDAL
    #
-
 import sys
 import os
 import struct
